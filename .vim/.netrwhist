@@ -1,0 +1,9 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =7
+let g:netrw_dirhist_1='/Users/davens/code/mixlr/spec'
+let g:netrw_dirhist_2='/Users/davens/code/mixlr/spec/models'
+let g:netrw_dirhist_3='/Users/davens/code/mixlr/spec/models/subscription_manager'
+let g:netrw_dirhist_4='/Users/davens/code/mixlr-app/src'
+let g:netrw_dirhist_5='/Users/davens/code/mixlr-app/src/classes'
+let g:netrw_dirhist_6='/Users/davens/code/mixlr-app/src/classes/broadcast'
+let g:netrw_dirhist_7='/Users/davens/libraries/Soundflower/Source/Soundflower.xcodeproj'
